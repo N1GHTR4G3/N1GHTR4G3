@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=n1ghtr4g3&label=Profile%20views&color=0e75b6&style=flat" alt="n1ghtr4g3" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=n1ghtr4g3" alt="n1ghtr4g3" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=N1GHT_R4G3" alt="N1GHT_R4G3" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@n1ghtr4g3" target="blank"><img src="https://img.shields.io/twitter/follow/@n1ghtr4g3?logo=twitter&style=for-the-badge" alt="@n1ghtr4g3" /></a> </p>
+<p align="left"> <a href="https://twitter.com/N1GHT_R4G3" target="blank"><img src="https://img.shields.io/twitter/follow/@N1GHT_R4G3?logo=twitter&style=for-the-badge" alt="@n1ghtr4g3" /></a> </p>
 
 - 🌱 I’m currently learning **To Escape The Matrix**
 
@@ -22,9 +22,9 @@
 
 <p align="left">
 
-<a href="https://twitter.com/@n1ghtr4g3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@n1ghtr4g3" height="30" width="40" /></a>
+<a href="https://twitter.com/N1GHT_R4G3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@N1GHT_R4G3" height="30" width="40" /></a>
 
-<a href="https://fb.com/noor.yamni.5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="noor.yamni.5" height="30" width="40" /></a>
+<a href="https://fb.com/noor.yamni.5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nightrage.0" height="30" width="40" /></a>
 
 </p>
 

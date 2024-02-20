@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm N1GHTR4G3</h1>
 
-<h3 align="center">A passionate noob-hacker from Biafra</h3>
+<h3 align="center">A passionate python novice from Biafra</h3>
 
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/hacker-hacking-in-the-dark-h2fu99nutzo132op.gif"><img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*5_-vAY4eZmoSzW9eXq6ABw.gif">
 
